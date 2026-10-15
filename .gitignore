@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+data/runs/
+data/*.db
+data/portfolio.csv

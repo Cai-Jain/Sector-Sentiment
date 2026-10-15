@@ -1,0 +1,8 @@
+feedparser
+requests
+pandas
+tabulate
+python-dateutil
+transformers
+torch
+vaderSentiment
